@@ -1,0 +1,80 @@
+body{
+    background-color: black;
+    color:white;
+    margin:auto;
+    
+}
+header{
+    height:50px;
+   /* border:5px solid hotpink;*/
+    background-color:red;
+    font-size: 30px;
+    text-decoration: none;
+    
+
+} 
+a{
+    text-decoration: none;
+}
+
+    
+
+.sociallogo{
+    height: 45px;
+
+}
+#social{
+    float: right;
+}
+#brand{
+    
+    font-size:20px;
+}
+#name{
+    text-align: center;
+
+}
+.mithesh{
+    height: 500px;
+
+}   
+#some{
+    height: 150px ;
+    /*border:15px solid blue;*/
+    margin:auto;
+    background-color: blue;
+    text-align: center;
+}
+.skillslogo{
+    height:80px ;
+    text-align: center;
+}
+
+#Contact{
+    height:50px;
+    width: 100%
+
+    /*border:10px solid white;*/
+    margin: auto;
+    background-color: fuchsia;
+    text-align: center;
+}
+#add{
+    text-align:center;
+}
+footer{
+    
+    height:100px;
+    border:10px solid blue;
+    margin: auto;
+    background-color: brown;
+}
+
+    
+    
+
+
+    
+    
+    
+    
